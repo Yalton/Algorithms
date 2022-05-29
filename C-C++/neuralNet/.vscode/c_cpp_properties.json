@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "\\\\wsl$\\Ubuntu\\usr\\include",
+                "\\\\wsl$\\Ubuntu\\usr\\local\\include"
+            ],
+            "defines": [],
+            "compilerPath": "\\\\wsl$\\Ubuntu\\usr\\bin\\gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x86"
+        }
+    ],
+    "version": 4
+}

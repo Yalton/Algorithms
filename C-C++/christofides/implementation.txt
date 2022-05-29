@@ -1,0 +1,11 @@
+1. Create a Christofides class with a constructor that takes in the size of the problem as a parameter.
+
+2. Implement a public member function of the Christofides class to run the algorithm, taking in the weights of the edges as a parameter.
+
+3. Implement a private member function of the Christofides class to find the minimum spanning tree, using Kruskal's algorithm or Prim's algorithm.
+
+4. Implement a private member function of the Christofides class to find the perfect matching, using the Hopcroft-Karp algorithm.
+
+5. Implement a private member function of the Christofides class to find the shortest path, using Dijkstra's algorithm.
+
+6. Implement a private member function of the Christofides class to check if there is a Hamiltonian cycle, returning a boolean value.

@@ -1,0 +1,8 @@
+
+1. Create a BronKerbosch class with a constructor that takes in the size of the problem as a parameter.
+
+2. Implement a public member function of the BronKerbosch class to run the algorithm, taking in the edges as a parameter.
+
+3. Implement a private member function of the BronKerbosch class to find the maximal cliques, using the Bron–Kerbosch algorithm.
+
+4. Implement a private member function of the BronKerbosch class to check if there is a valid clique, returning a boolean value.

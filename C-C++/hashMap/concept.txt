@@ -1,0 +1,10 @@
+
+1. Create a HashMap class with a constructor that takes in the size of the map as a parameter.
+
+2. Create a private member variable of the HashMap class to store the data, using a std::unordered_map.
+
+3. Implement a public member function of the HashMap class to insert data into the map, taking in a key and a value as parameters.
+
+4. Implement a public member function of the HashMap class to retrieve data from the map, taking in a key as a parameter and returning the corresponding value.
+
+5. Implement a public member function of the HashMap class to remove data from the map, taking in a key as a parameter.

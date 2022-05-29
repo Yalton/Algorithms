@@ -1,0 +1,10 @@
+
+1. Create a Fortunes class with a constructor that takes in the size of the problem as a parameter.
+
+2. Implement a public member function of the Fortunes class to run the algorithm, taking in the points as a parameter.
+
+3. Implement a private member function of the Fortunes class to find the Voronoi diagram, using Fortune's algorithm.
+
+4. Implement a private member function of the Fortunes class to find the Delaunay triangulation, using the Law of Cosines.
+
+5. Implement a private member function of the Fortunes class to check if there is a valid Delaunay triangulation, returning a boolean value.

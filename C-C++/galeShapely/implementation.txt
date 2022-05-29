@@ -1,0 +1,9 @@
+1. Create a GaleShapely class with a constructor that takes in the size of the problem as a parameter.
+
+2. Implement a public member function of the GaleShapely class to run the algorithm, taking in the preferences of the men and women as parameters.
+
+3. Implement a private member function of the GaleShapely class to find the man's most preferred woman who has not yet rejected him, taking in the man's preferences as a parameter.
+
+4. Implement a private member function of the GaleShapely class to find the woman's most preferred man who has not yet been rejected by her, taking in the woman's preferences as a parameter.
+
+5. Implement a private member function of the GaleShapely class to check if there is a stable matching, returning a boolean value.

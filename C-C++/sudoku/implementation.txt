@@ -1,0 +1,9 @@
+1. Create a Sudoku class with a constructor that takes in the sudoku puzzle as a parameter.
+
+2. Implement a public member function of the Sudoku class to solve the puzzle, returning the solved puzzle as a std::vector.
+
+3. Implement a private member function of the Sudoku class to check if a given value is valid for a given cell, taking in the value, row, and column of the cell as parameters.
+
+4. Implement a private member function of the Sudoku class to find the next empty cell, returning the row and column of the cell as a std::pair.
+
+5. Implement a private member function of the Sudoku class to check if the puzzle is solved, returning a boolean value.
