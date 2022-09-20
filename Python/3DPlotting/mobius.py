@@ -10,7 +10,7 @@ from matplotlib.tri import Triangulation
 
 
 fig = plt.figure()
-
+ax = plt.axes(projection='3d')
 
 theta = np.linspace(0, 2 * np.pi, 30)
 w = np.linspace(-0.25, 0.25, 8)
@@ -28,7 +28,7 @@ z = np.ravel(w * np.sin(phi))
 
 tri = Triangulation(np.ravel(w), np.ravel(theta))
 
-ax = plt.axes(projection='3d')
+
 ax.plot_trisurf(x, y, z, triangles=tri.triangles,
                 cmap='viridis', linewidths=0.2)
 
